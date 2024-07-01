@@ -13,10 +13,10 @@
 <br />
 <div align="center">
 
-<h3 align="center">Linear Regressor</h3>
+<h3 align="center">Xentry Portal Automation</h3>
 
   <p align="center">
-    Automated system for collecting, preprocessing, and generating formatted spreadsheets from Mercedes-Benz database data, enabling streamlined decision-making processes.
+    Automated system for collecting, preprocessing, and generating formatted spreadsheets from Mercedes-Benz database data (Xentry Portal), enabling streamlined decision-making processes.
     <br />
     <a href="https://github.com/lucaswmlima/python-xentry-automation"><strong>Explore the docs »</strong></a>
     <br />
