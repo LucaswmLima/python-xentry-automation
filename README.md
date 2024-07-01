@@ -94,7 +94,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-2. Execute Xentry Automation.exe<br>
+2. Execute Xentry Automation.exe<br><br>
    For sensitive information security reasons, this repository has a project without a functional login and password so it will not perform automation
 
 
