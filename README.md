@@ -95,6 +95,7 @@ To get a local copy up and running follow these simple example steps.
 ## Usage
 
 2. Execute Xentry Automation.exe
+   For sensitive information security reasons, this repository has a project without a functional login and password so it will not perform automation
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
